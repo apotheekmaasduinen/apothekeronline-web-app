@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "apotheker-online-dev",
+    "prod": "apotheker-online",
+    "dev": "apotheker-online-dev"
+  },
+  "targets": {},
+  "etags": {}
+}
